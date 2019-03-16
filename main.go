@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-  userId := "admin"
+  userID := "admin"
   fmt.Println("Hello, World!")
   fmt.Println("Woohoo!!!!")
 }
